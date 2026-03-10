@@ -159,3 +159,4 @@ Drop the file anywhere under `src/tools/<category>/` — the registry auto-disco
 | `add_matter_comment` | `AIRTABLE_API_TOKEN`, `AIRTABLE_BASE_ID`, `AIRTABLE_MATTERS_TABLE` |
 | `fetch_text_history` | `OPENPHONE_API_KEY`, `OPENPHONE_PHONE_NUMBER_ID` |
 | `send_mailing` | `DOCUPOST_API_TOKEN`, `DOCUPOST_FROM_NAME`, `DOCUPOST_FROM_ADDRESS1`, `DOCUPOST_FROM_CITY`, `DOCUPOST_FROM_STATE`, `DOCUPOST_FROM_ZIP` |
+| `validate_citations` | `COURTLISTENER_API_TOKEN` *(optional — omit for 100 req/day, set for 5,000/hour)* |
